@@ -1,2 +1,1 @@
-# gen-art
-Generative art for NFTs with p5.js
+## Generative art for NFTs with p5.js
